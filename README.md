@@ -8,6 +8,8 @@ Java ile geliştirilmiş doktor-hasta randevu ve reçete yönetim sistemi.
 
 ## Proje Yapısı
 AkilliSaglikSistemi/
+
+
 ├── Doktor.java
 ├── Hasta.java
 ├── Randevu.java
@@ -19,13 +21,15 @@ AkilliSaglikSistemi/
 
 
 Özellikler
-Doktor kayıt ve listeleme
 
-Hasta kayıt ve listeleme
 
-Randevu oluşturma ve görüntüleme
+*Doktor kayıt ve listeleme
 
-Reçete oluşturma ve ilaç ekleme
+*Hasta kayıt ve listeleme
+
+*Randevu oluşturma ve görüntüleme
+
+*Reçete oluşturma ve ilaç ekleme
 
 Kullanıcı dostu konsol arayüzü
 
