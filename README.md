@@ -47,3 +47,4 @@ Java ile derleyip çalıştırın:
 bash
 javac *.java
 java Main
+![PROJE RESİMLERİ](https://github.com/user-attachments/assets/29e70ee4-f61f-4c03-98e1-1b7db924c63a)
